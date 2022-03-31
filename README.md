@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with improving our community of genosisx
 - 💬 Ask me about DSA, Frontend Development, Machine Learning or any tech related stuff.
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/his
+-
 - ⚡ Fun fact: 
